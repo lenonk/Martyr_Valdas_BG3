@@ -6,7 +6,7 @@ A martyr is a divine champion who pays for magic in blood. Martyrs don't have sp
 
 ## Requirements
 
-- **A script extender:** [BG3 Script Extender](https://github.com/Norbyte/bg3se) on Windows, or [bg3le](https://github.com/lenonk/bg3le) on native Linux. Much of the class runs in its Lua, including the HP cost of casting. Without an extender the mod loads, but spells cost no HP and many features do nothing.
+- **A script extender:** [BG3 Script Extender](https://github.com/Norbyte/bg3se) on Windows, or [bg3le](https://github.com/lenonk/bg3le) on native Linux; it's tested under both. Much of the class runs in its Lua, including the HP cost of casting. Without an extender the mod loads, but spells cost no HP and many features do nothing.
 - **5e Spells** by Celes/DiZ, **loaded before the Martyr**. Some Martyr spells are built on its spells: Gentle Repose, Zone of Truth, Create Food and Water, Dispel Magic, Magic Circle and Intellect Fortress. It can't be declared as a dependency in the mod's metadata: BG3 only accepts dependencies on mods published on mod.io, and 5e Spells isn't one, so declaring it makes the game reset your whole load order at the next start. Set the order yourself.
 
 ## Installation
@@ -71,7 +71,6 @@ BG3 isn't tabletop, so some rules are adapted:
 - Indemnify's link between caster and target lasts only until you load a save; cast it again after loading.
 - Divine Healing counts only Martyr Hit Dice; a multiclassed character's other Hit Dice aren't pooled.
 - Martyrs who already passed a level before an update don't receive burden spells added to that level since; respec or level a new Martyr.
-- Tested under bg3le on Linux. It uses the standard script extender API, but hasn't been tested under BG3SE on Windows yet.
 
 ## Building from source
 
