@@ -1,0 +1,5 @@
+# Build outputs: ./build.sh writes the pak to dist/, and builds bg3tool into out/.
+dist/
+tools/bg3tool/obj/
+tools/bg3tool/out/
+*.pak.tmp

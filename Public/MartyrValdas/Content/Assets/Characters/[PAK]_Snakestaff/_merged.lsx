@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0"/>
+	<region id="AnimationBank">
+		<node id="AnimationBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="1.6"/>
+					<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="True"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_CombatIdle"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_CombatIdle.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_CombatIdle.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.266667"/>
+					<attribute id="ID" type="FixedString" value="d05c593c-a493-5109-a4af-755af89e6e04"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_Ready"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_Ready.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_Ready.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.433333"/>
+					<attribute id="ID" type="FixedString" value="6dba5d36-c6ce-5739-9cea-38f4b06d80c3"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_BiteAntic"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_BiteAntic.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_BiteAntic.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+					<children>
+						<node id="Events">
+							<attribute id="ID" type="FixedString" value="React"/>
+							<attribute id="Length" type="float" value="0.1"/>
+							<attribute id="TextKeyType" type="uint8" value="15"/>
+							<attribute id="Time" type="float" value="0.3"/>
+							<attribute id="Track" type="uint8" value="1"/>
+							<children>
+								<node id="Properties"/>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.7"/>
+					<attribute id="ID" type="FixedString" value="8e100459-7a75-5647-997e-3a6a149b337b"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_BiteAttack"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_BiteAttack.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_BiteAttack.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+					<children>
+						<node id="Events">
+							<attribute id="ID" type="FixedString" value="Cast"/>
+							<attribute id="Length" type="float" value="0.1"/>
+							<attribute id="TextKeyType" type="uint8" value="8"/>
+							<attribute id="Time" type="float" value="0.133"/>
+							<attribute id="Track" type="uint8" value="0"/>
+							<children>
+								<node id="Properties"/>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.733333"/>
+					<attribute id="ID" type="FixedString" value="c13473c8-0e21-5a60-9a24-f41be311f81d"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_BiteRecover"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_BiteRecover.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_BiteRecover.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.8"/>
+					<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_Hit"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_Hit.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_Hit.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.8"/>
+					<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="True"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_Slither"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_Slither.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_Slither.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="1.2"/>
+					<attribute id="ID" type="FixedString" value="0d0bfab8-4b65-5ad4-ab81-fae678a096c1"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="True"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_ClimbUp"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbUp.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbUp.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="1.2"/>
+					<attribute id="ID" type="FixedString" value="52b1dfaa-791a-50c9-9e3a-350a00858460"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="True"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_ClimbDown"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbDown.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbDown.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.666667"/>
+					<attribute id="ID" type="FixedString" value="a54c9f4a-3fc3-541d-906e-711304bb2b07"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_ClimbUpStart"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbUpStart.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbUpStart.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="1.2"/>
+					<attribute id="ID" type="FixedString" value="919711d9-21e6-51f8-b666-124bee2d6432"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_ClimbUpEnd"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbUpEnd.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbUpEnd.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="1.0"/>
+					<attribute id="ID" type="FixedString" value="e6c075be-3766-5138-8120-b009261d4b26"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_ClimbDownStart"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbDownStart.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbDownStart.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="1.466667"/>
+					<attribute id="ID" type="FixedString" value="060205ff-a939-5e51-ba65-c22fbcf4392d"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_ClimbDownEnd"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbDownEnd.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ClimbDownEnd.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.4"/>
+					<attribute id="ID" type="FixedString" value="f4b509fc-dd8a-5618-b5a2-8769e14d2e55"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_RestToSlither"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_RestToSlither.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_RestToSlither.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.6"/>
+					<attribute id="ID" type="FixedString" value="cbc8bafd-1f0f-5db0-80e8-8c4b718fffa6"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_SlitherToRest"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_SlitherToRest.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_SlitherToRest.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.4"/>
+					<attribute id="ID" type="FixedString" value="9ee28dd9-cd18-5ba8-abfd-f2770137258f"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_StanceToSlither"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_StanceToSlither.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_StanceToSlither.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.6"/>
+					<attribute id="ID" type="FixedString" value="e6beb27f-5f84-5d7a-b5fd-9ca90b8cd08c"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_SlitherToStance"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_SlitherToStance.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_SlitherToStance.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="0.8"/>
+					<attribute id="ID" type="FixedString" value="5a578459-1b40-5b76-a1b8-5849aefdeaf6"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_ConstrictStart"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ConstrictStart.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_ConstrictStart.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+					<children>
+						<node id="Events">
+							<attribute id="ID" type="FixedString" value="Cast"/>
+							<attribute id="Length" type="float" value="0.1"/>
+							<attribute id="TextKeyType" type="uint8" value="8"/>
+							<attribute id="Time" type="float" value="0.33"/>
+							<attribute id="Track" type="uint8" value="0"/>
+							<children>
+								<node id="Properties"/>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value=""/>
+					<attribute id="AnchorHand" type="uint8" value="0"/>
+					<attribute id="Duration" type="float" value="2.0"/>
+					<attribute id="ID" type="FixedString" value="0fab358f-f464-5e0a-9d17-4517082258fc"/>
+					<attribute id="IsPoseBank" type="bool" value="False"/>
+					<attribute id="LeftTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="Looping" type="bool" value="True"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snake_Constricting"/>
+					<attribute id="Offset" type="float" value="0"/>
+					<attribute id="PreviewVisualResource" type="FixedString" value="14200081-96d9-8502-49fe-caed104797fe"/>
+					<attribute id="RightTransitionAnimation" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_Constricting.GR2"/>
+					<attribute id="SupportingLeg" type="uint8" value="0"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/_Anims/Snakestaff/Martyr_Snake_Constricting.Anim.0"/>
+					<attribute id="TimeStep" type="float" value="0.033333"/>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="AnimationSetBank">
+		<node id="AnimationSetBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="6c1f92b9-c554-5cdb-aa52-84bbeeacca09"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snakestaff_Snake"/>
+					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+					<attribute id="SourceFile" type="LSString" value=""/>
+					<children>
+						<node id="AnimationSet">
+							<children>
+								<node id="AnimationBank">
+									<attribute id="FallBackAnimation" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+									<attribute id="ShortNameSetId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+									<children>
+										<node id="AnimationSubSets">
+											<children>
+												<node id="Object">
+													<attribute id="FallBackSubSet" type="FixedString" value=""/>
+													<attribute id="MapKey" type="FixedString" value=""/>
+													<children>
+														<node id="Animation">
+															<children>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="0036dd28-0484-47fd-87bd-efa6af2b9f85"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="00696352-793e-4e20-9045-bdd977722bec"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="00800f03-ef99-4b9f-8511-6440ca697356"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="008ee67a-ad95-415c-a985-8a529b9738aa"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="0319ca29-4024-4649-9278-3c1f20c5f023"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="0472565c-e388-4bad-88b3-c853734928df"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="05314265-53cc-4afd-ab31-d596126c8cac"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="0532ad73-988e-4b70-bb96-434bb2532bad"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="0691312c-11ba-43c8-8c41-c203cc53b169"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="06a9866d-0206-4016-a7ee-f124a623d73c"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="06cff5ab-1705-403a-b20f-d5c9defbece5"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="06e06334-2ef3-4b6b-9b37-2d7b4842cf7d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="e6beb27f-5f84-5d7a-b5fd-9ca90b8cd08c"/>
+																	<attribute id="MapKey" type="FixedString" value="079e0116-ea7f-4a9d-9aee-7ac7fd9211cf"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="876b32fc-241a-5b85-49f4-6e96718be210"/>
+																	<attribute id="MapKey" type="FixedString" value="07e81afc-95c4-452b-ac68-5cbb74710cca"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="0842c7e1-02f7-4d79-9ade-4cf356912d2a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="08e862c4-75d3-489d-bdb2-b2f95031373e"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="0a0756ef-1405-445b-9a7a-b0593127a927"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="c13473c8-0e21-5a60-9a24-f41be311f81d"/>
+																	<attribute id="MapKey" type="FixedString" value="0b07883a-08b8-43b6-ac18-84dc9e84ff50"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="0d7359e1-fb44-4854-a992-1ae64315f646"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="0e5e02b3-a4ca-4d5b-bb42-71b097887a18"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="0f449e7c-8925-4657-96cc-9d38065567e9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="0f46a165-c4a4-4123-8bcf-9cd0b96bae1a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="101dd440-158d-4df5-8a0d-aca5e070074e"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="109c1f10-75d5-4f55-8ac6-a7c0accd2307"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="117941c9-1d06-46d2-8d77-941b13aaacf2"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="12897b10-713d-4969-95ec-2be7981bdec5"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="1311e741-a639-4837-8f25-094772014029"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="13b31072-eaf3-40f0-9ec6-6751ee1f29f5"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="14294166-95db-46c1-b22a-2b780c2c2790"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="153449c8-7d4c-42e9-9f36-8fbae59a909b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="15c8c8f4-b6a2-40bd-99b5-1360bdb0f74a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="060205ff-a939-5e51-ba65-c22fbcf4392d"/>
+																	<attribute id="MapKey" type="FixedString" value="163a6689-6cc3-4737-9d15-2f025f34a100"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="1781fdf4-f6d7-4d8c-b9d4-a7bea3a56e37"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="1a32a27f-b310-4d16-aaae-c92363c16f61"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6dba5d36-c6ce-5739-9cea-38f4b06d80c3"/>
+																	<attribute id="MapKey" type="FixedString" value="1a7a7d05-d4f3-4311-a48c-a97ce7f78e8f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="1c343e00-7e6c-4f53-b588-074a3cdb9c7d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="1c364663-4698-4f11-a39a-85833e4d0d75"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="1c8a18b6-75a5-45b2-b48c-3bf6467bc5a3"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="1d832b0a-ccfe-4ca7-8426-10200306921c"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="1f2796e2-914a-40ba-8fdf-f39863d094b8"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="1f3a444e-1012-48ba-8d67-2717082e6470"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="1fc0a1f3-8bfe-4e0b-bdfb-a7f4d5f3ec7d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="200ab854-a989-4a6a-8ac9-4b20aecaccda"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="210d12d9-f79e-40ed-84c6-e77f4f584685"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="919711d9-21e6-51f8-b666-124bee2d6432"/>
+																	<attribute id="MapKey" type="FixedString" value="21748f44-a620-4435-ae3b-e87f87256f7c"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="22e5dd51-694a-42fd-a709-2b2dddfed049"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="238a1dac-a709-47e6-9702-a114ef3b684b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="23977de5-9346-4361-8117-5a0aab06c299"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="2766b520-9059-436d-a240-a6faa3649a31"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="27ec0fe8-6400-4429-b378-465c487ffbf7"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="2b81c18b-9698-4262-a623-932c2bb1296d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="2cd1a92b-3ddd-42d2-a8e3-d4a7f705fb96"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="2d49b56a-4166-46ed-86ea-be3f62097326"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="30cc5c8f-a5d9-49a7-aa45-d089d5ae014e"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="311417da-70c8-4fd6-8c12-471f2c263987"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="33774054-851e-4e0e-8574-940ae6d280a7"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="352c3a89-f99c-4472-8424-58c0ffb15e55"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="c13473c8-0e21-5a60-9a24-f41be311f81d"/>
+																	<attribute id="MapKey" type="FixedString" value="3596f970-a135-4242-a7bb-bec88f5b4502"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="35f5091d-e3a9-491e-bdf8-44d68c2523ae"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="35f5cba8-3706-46d5-9a1e-2def9ba22473"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="36fcebc4-6813-48f0-81f0-c473b79782b7"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="37fe9557-0310-4273-9e28-03c1613e4101"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="395fc3ee-59ab-4114-9b91-ad536473acfd"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="3ad7bf24-805f-458e-803b-8ee070d1597f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="3b1ecad1-dd85-4073-8799-e353e2460691"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="52b1dfaa-791a-50c9-9e3a-350a00858460"/>
+																	<attribute id="MapKey" type="FixedString" value="3c246fb9-66c9-48ab-b2e8-a04388bd29ac"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="3e8c85a2-3427-46e6-9396-82d7cf2d0688"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="3ed0eebd-86d0-4902-bcea-e0b039e9ad1f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="919711d9-21e6-51f8-b666-124bee2d6432"/>
+																	<attribute id="MapKey" type="FixedString" value="401de783-ee6a-4fbe-88aa-f5b293795af0"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="412f122d-0773-4a08-bf1c-65749e543fb6"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="43869da1-1252-4531-aee3-7408321d2424"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="47ec2a7c-e134-42a3-aaea-e47425b1d449"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="499dcaab-6c66-4f32-8e42-a4f9b6cf9f87"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="4a789a60-04b8-4a26-b476-65cf26ca558b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="4ae452d5-4a2e-471a-bc98-907c9ca6c523"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="4be0751c-9fca-4c35-9337-6bf8a321c516"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="4c6636ea-1496-4072-83cc-f2bed762b103"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5001386e-fe1f-4546-b27c-6afac88eeb0b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="50079f9f-54e8-491a-8af2-95ba7a65847d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="50398f4e-dd82-4d6a-ad43-aedd578543d9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="e6c075be-3766-5138-8120-b009261d4b26"/>
+																	<attribute id="MapKey" type="FixedString" value="50feb93f-1163-4db8-b170-fa31834de3eb"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="510ff37e-0618-40e4-8ce0-236e3dc9c291"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="525ea715-0492-4197-b242-c61ae6f1f430"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5403e994-25b2-4dc4-ad42-02b75b431d8d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="54b9c5e2-c750-4176-8262-f345b6c87227"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="5614ef12-2a0a-40a1-901f-156801a024f0"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="876b32fc-241a-5b85-49f4-6e96718be210"/>
+																	<attribute id="MapKey" type="FixedString" value="5658922f-15c5-4729-b736-ca4456228628"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="56c1a546-478a-4519-9b2c-6382b46838e2"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="577bcf78-3d3d-4bc3-a064-fc59b2280153"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="57959c15-2631-4847-96af-ac9ac4a0c40b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="590ea7e8-ae43-4307-916b-b1133ef47dfa"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5abe3725-c152-42de-98c8-0dbf872e1ff2"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5bcdefbb-2194-46c2-ac77-0b2d8472a5f7"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="5c22cf36-3252-4228-8e46-78f3f5331db8"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="876b32fc-241a-5b85-49f4-6e96718be210"/>
+																	<attribute id="MapKey" type="FixedString" value="5cff24c4-99d7-4205-9187-21eada3d1614"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5dbfc67e-a1f4-4a91-b398-4df1ad989c49"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5dcdcc4c-3744-451f-b5cf-ed96664481cc"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5de550f5-5623-4b3e-8f5f-b05b363fc79b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5df11e35-f081-44f7-bd6f-7049d0e533cd"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5e57443f-284e-47b2-915e-5b6417db269c"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="5f127742-79d4-4590-839f-6eb5ae45930d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="5fdb66be-7506-411a-a7ea-c4783288aac8"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="6044e475-62cb-46ef-aeaa-f5971be678eb"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="60e9de7b-6fdb-4663-b16d-5ca16aad1207"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="624d2411-0362-4fb9-a16b-271d4ea5084f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="3895b835-be0f-2f7b-3291-fc9d179e39c3"/>
+																	<attribute id="MapKey" type="FixedString" value="62bf8952-d098-4e5d-94aa-e54aabf37c2e"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="63c0501c-14aa-467c-8980-45ed023ab15d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="6495ac74-6183-41a4-8d3c-add157dd97a2"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6dba5d36-c6ce-5739-9cea-38f4b06d80c3"/>
+																	<attribute id="MapKey" type="FixedString" value="6606c30b-be1c-4f17-ae6b-1a591c80b18c"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="f4b509fc-dd8a-5618-b5a2-8769e14d2e55"/>
+																	<attribute id="MapKey" type="FixedString" value="6687e57c-a901-4221-885d-95780853719a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="9ee28dd9-cd18-5ba8-abfd-f2770137258f"/>
+																	<attribute id="MapKey" type="FixedString" value="696e513e-9524-4c35-90e8-8b66f7b7bad9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="6dd3d472-9e11-47bf-8f7a-04e75ffe6c26"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="6e1041c4-7e59-45c4-8ad9-e47480b95020"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="6ed4de9e-ba7a-452c-8fc0-f28980ceac0a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="6f188c33-cc0e-4515-804e-8c6cf5e97f26"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="6f957f78-322e-465f-b314-27299a98add7"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="6ff78d16-10f9-49c0-b8a5-2fa30c4cd152"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="71400b2d-0be8-4e06-8c71-55fc5f4bedf0"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="717f3d36-b7dc-4cbc-b390-9fa5be580caa"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="718dd26b-d222-4e81-940e-7f2092957b36"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="71c7b6a4-8178-45da-81f7-2ecb3fa5ec2a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="721abca5-2d52-4317-82a3-2a2e970a7a16"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="8e100459-7a75-5647-997e-3a6a149b337b"/>
+																	<attribute id="MapKey" type="FixedString" value="722df2d7-7898-4b0b-b930-5a850b55ccf0"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="729d94f0-ada1-4861-b63d-209eaf76b39f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="746ccd27-75ea-4ca8-b0e5-4579029319c5"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="cbc8bafd-1f0f-5db0-80e8-8c4b718fffa6"/>
+																	<attribute id="MapKey" type="FixedString" value="747849e7-7131-4492-b8b8-ef146d1a9615"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="7521e279-1bb3-4105-b32d-8206234836a3"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="77ea0b3c-acbb-4b48-9d7a-58e9bb19e473"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="789613f0-1c2a-4e63-9555-a964c6cabe98"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="78eb825c-cf79-46c9-bb59-11a3df7b29f9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="79261934-8627-4c47-947d-446ac04bca3d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="7bb52cd4-0b1c-4926-9165-fa92b75876a3"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="7cf80df7-3ba2-49d6-aba9-ddaab91db196"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="3895b835-be0f-2f7b-3291-fc9d179e39c3"/>
+																	<attribute id="MapKey" type="FixedString" value="7dd68613-7f2b-4e98-8ef8-2a4c36aacd9c"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="7def448c-ee51-48da-a683-e8f8992efb82"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="7e54726f-0203-468f-b4c9-b7bb92eb1f6a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="7e811df9-74e7-4515-bd02-7043164dbf33"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="0fab358f-f464-5e0a-9d17-4517082258fc"/>
+																	<attribute id="MapKey" type="FixedString" value="803c12dc-75b2-45b3-a6e7-3a06668335e5"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="807fb59f-015e-47df-83bf-effaa57433ff"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="8145f891-e1f3-4510-b166-d974ef1c3896"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="821aed88-e17b-4b85-b37a-533f90fbba84"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="83489e51-fe70-4855-b2be-9526a40ff4fd"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="8392f4d1-e64b-4713-868c-ccf7b99b44dd"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="84a7c4b0-e558-4dde-9408-01afe3b24a72"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="84b854ab-ae45-4c4a-bc4c-a62990a22351"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="84cbd061-1616-46a2-b2d4-15849d971cc8"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="851b5331-cdf5-4888-97e3-a9c45988eac4"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="866fc762-95db-41cd-92e1-681115d3f724"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="870cae8d-4448-49fc-95d1-359463f650a6"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="881e6512-732b-48d1-9606-e235bcf97e50"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="72b6c95e-eab1-d8fb-787f-06fcf1994bd6"/>
+																	<attribute id="MapKey" type="FixedString" value="88cae003-a946-4e0e-bd0c-2ba677f5d9ef"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="88e837ec-7a04-44d2-b1ce-35d083c5390a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="88f95a55-7bc5-4f12-b507-d6569d745856"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="895ce382-397d-4b9a-9e8f-6ee3b1ff3a13"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="8a2d2e0e-bd6b-4ac7-afa0-86b87f6cd997"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="8b71666d-a69a-4c54-ae41-20ce3fa0e003"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="d05c593c-a493-5109-a4af-755af89e6e04"/>
+																	<attribute id="MapKey" type="FixedString" value="8b8bb757-21ce-4e02-a2f3-97d55cf2f90b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="8dccb0f6-24e3-44b7-a60b-1f217b7db523"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="8ee67630-f1c7-441d-aaf6-fa4633c890da"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="90dce17f-a6f7-4f8e-a76b-3a03a5482acc"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="916a717d-930e-45a9-a725-aedc608fb0c4"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="91a756de-cbcd-47ca-a23b-6393c7c01243"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="91dc33c9-0871-4529-ac01-a068f4cd51f3"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="9214185e-c1ae-4e4b-838d-977b8588bd7a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="925779e7-8bf6-4d56-8c4d-42c3bc01c60c"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="941021ed-0c3a-4c45-8134-4ea2a7f5d4f9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="94f31a50-08bc-4284-ba95-4474eaaeb138"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="72b6c95e-eab1-d8fb-787f-06fcf1994bd6"/>
+																	<attribute id="MapKey" type="FixedString" value="9602e871-c983-4a80-9bbe-5fa07d9411e3"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="9630f83c-a369-425d-8c0f-d38e01153a05"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="96d46933-8876-47b9-b48a-4cc092d69db2"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="972109d9-0470-41b1-aa82-8b01cecfc556"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="cbc8bafd-1f0f-5db0-80e8-8c4b718fffa6"/>
+																	<attribute id="MapKey" type="FixedString" value="99115bc1-ee80-4060-b74e-7a0583a13345"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="060205ff-a939-5e51-ba65-c22fbcf4392d"/>
+																	<attribute id="MapKey" type="FixedString" value="9aa73082-b0ce-4243-b893-4598f15ea717"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="a986ae15-59ab-d5ee-59cb-d47865bbfdff"/>
+																	<attribute id="MapKey" type="FixedString" value="9acc8342-26ac-48ac-b569-18c07296456b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="9c160c9b-c787-47d5-b042-bcfed2fb77ec"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="9c46b703-a5fa-4c4b-af27-1d5bb6f075f1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="9ca322ee-7b24-49ac-b0fb-fbc76e648104"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="9cb533e9-dbc1-45d4-b5f9-3f2e30a3670f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="52b1dfaa-791a-50c9-9e3a-350a00858460"/>
+																	<attribute id="MapKey" type="FixedString" value="9dbd99a1-8930-4bab-a467-36ae0caa92e2"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="9e02c309-46c1-43ef-b47c-ad6983058c19"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="9e9c9b0f-8fd3-494a-9963-b829942c6bc2"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="9ed393aa-a2c5-4ff7-87d6-5a5dc210ccd1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="a54c9f4a-3fc3-541d-906e-711304bb2b07"/>
+																	<attribute id="MapKey" type="FixedString" value="9f133b27-bd3b-48de-92b0-1f209f7c40d0"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="a044c83d-ca4d-4b01-b7e2-f87c8693627b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="cbc8bafd-1f0f-5db0-80e8-8c4b718fffa6"/>
+																	<attribute id="MapKey" type="FixedString" value="a10ede4b-6b1f-46d3-b52f-2dde06d738d1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="a17a7bf3-7381-4191-83f4-304d37c738e0"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="a2e3711c-1115-4971-9dbf-b657f09e9d47"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="a310b982-5d33-4b65-aa90-06cabbca5397"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="a423f8ea-398d-4aec-a039-72e4aa5921e0"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="a443a68d-5c8a-4ce2-8c41-0270fedcf946"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="a508bef8-6767-4560-ac3a-6c04132c825e"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="72b6c95e-eab1-d8fb-787f-06fcf1994bd6"/>
+																	<attribute id="MapKey" type="FixedString" value="a53a9b3c-aed6-45b8-b40d-30c534a6d435"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="a57fc614-ed20-4574-936b-bdcc6cebd36a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="c13473c8-0e21-5a60-9a24-f41be311f81d"/>
+																	<attribute id="MapKey" type="FixedString" value="a693a7c3-e7e7-4edb-98dd-db5fd700663f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="a71e11ca-95ab-463d-a4bf-fe8094126b61"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="0d0bfab8-4b65-5ad4-ab81-fae678a096c1"/>
+																	<attribute id="MapKey" type="FixedString" value="a7323180-3349-4387-81f6-6eaac3f2a86f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="a8a0ea71-8a3e-46f8-ae10-e795848f2867"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="0fab358f-f464-5e0a-9d17-4517082258fc"/>
+																	<attribute id="MapKey" type="FixedString" value="aab8b3cf-fdbf-4db6-92d7-0af1ef655f73"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="aac72f3d-a308-40cb-97d9-7fc8116e1456"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="aaf333db-4a1d-491f-b0f6-ad866740fdf3"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="ab6fb758-3ff1-42c9-9716-3372d1701a95"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="ab7b2bab-e9be-4462-9771-aa17f93a14ac"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="ac3b79de-641b-4f12-8e79-a2cc6e6a79e9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="ac61dc44-d236-4d19-920c-31ab9dd5a993"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="0d0bfab8-4b65-5ad4-ab81-fae678a096c1"/>
+																	<attribute id="MapKey" type="FixedString" value="ac9edf7f-6ec2-4445-b451-2f4c09b105d4"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="ad5d5054-d995-4d44-b8f5-525009508c36"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="ade4cf7f-a34a-40c4-b810-096f0c186bc2"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="af84b904-33ad-49fb-8693-8e62917ffe19"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="9ee28dd9-cd18-5ba8-abfd-f2770137258f"/>
+																	<attribute id="MapKey" type="FixedString" value="b18fe171-d5ff-4ec9-87d3-5ad5493e841e"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="b24b3f23-6d3a-43ce-ae3a-abfb44d26082"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="b3f94255-adc0-4cea-b9a5-91e4f838345b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="b43a16a4-a839-4fdb-99c5-740db58e05bf"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="b47955ba-760c-4e20-a1f0-db25ab1c54c3"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="b554aad5-6f39-4406-b248-e82084d01b1f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="b55f33b8-4cb5-4cf7-beaa-3c8a23fad3bd"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="b598cc4f-8f59-47e7-a9fc-ac530a2bebb1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="b5d99946-0646-4bdd-88a0-9604872a0dd9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="72b6c95e-eab1-d8fb-787f-06fcf1994bd6"/>
+																	<attribute id="MapKey" type="FixedString" value="b666ee61-f1cb-45bd-ae1b-1123799fbbbe"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="b6bebde2-ecff-4df6-9d24-cd9fabb9fe79"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="b780092c-cc12-43d5-b60e-acbac3fdceed"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="ba86edb7-a943-4463-97c8-dd06064845cb"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="bbf65b93-0377-4f38-9bf0-2bc064f41a13"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="bdd42226-50dc-45b7-8b4c-86662f253201"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="c07a9d83-9a39-464a-b281-15c67c528ffb"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6dba5d36-c6ce-5739-9cea-38f4b06d80c3"/>
+																	<attribute id="MapKey" type="FixedString" value="c1df9aea-8be9-4de3-bcbc-4e4c1e44dc37"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="a54c9f4a-3fc3-541d-906e-711304bb2b07"/>
+																	<attribute id="MapKey" type="FixedString" value="c1f8cbf1-c92d-42d2-968c-5a53ff5779fd"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="c2577787-b2bc-41d0-9fda-1a5dad303a08"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="c2da4fe4-0870-4c0a-b7af-3a51e9b8dc91"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="c36a9627-a348-4cca-abcf-206b29c791b9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="c466aa41-974e-43f8-b0fc-2c7ca90bc81a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="c52c0f99-9838-463d-b245-7a506c6c428b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="c6596d70-68b6-4174-8303-d7fa398d8f7a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="c68b348d-fe4c-41af-a29d-83010fc91418"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="c6e5173f-e26c-48d8-8f2e-b987b475ed9a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="c7f76fb4-9775-4c4c-8179-3f08a2e18c78"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="c91247cd-6e65-496a-9ed0-cd36f10bdc69"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="c94143da-14b5-406d-9bd4-f65541af98bb"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="cacc8846-0ae5-47eb-9073-ee9166e4cb36"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="cbc8bafd-1f0f-5db0-80e8-8c4b718fffa6"/>
+																	<attribute id="MapKey" type="FixedString" value="cb419433-48fb-4e38-9f34-7bfcb1c2cbe6"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="cbe217f4-bca8-46c0-bb22-c846b18e13a1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="cca5b682-048f-4c31-b28b-79ccf75b0df6"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="ce773016-6fb4-44fe-84db-e037aaa22041"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="cf27f269-3d43-4bfa-b370-e48d27ab2d0e"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="662d42e2-2419-5b75-8ba8-72ab0132463d"/>
+																	<attribute id="MapKey" type="FixedString" value="cf3f0e09-1a9e-430d-8be2-7a4c0c8a875e"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="d0491340-1a2d-4284-83f0-5869ce1f9992"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="d079e170-9db7-4527-9401-4f73e1bee395"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="d0de1b4a-5be9-4bd6-8422-25b5892866ea"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="d13e9dce-8866-4833-98e3-f2e8cad0d790"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="d172e037-7041-4352-9a20-5f4b185f9ef1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="bdedfba4-88ae-1469-208f-9fbed8947d5e"/>
+																	<attribute id="MapKey" type="FixedString" value="d326ed36-d633-4414-a1ff-68227e9d3c5c"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="d5233738-f37d-4e4c-a90b-5322b88d9d36"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="d5c91bea-432f-4b56-918c-f9460a4c7023"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="d7745165-66e4-41c4-9e42-d09d95a29491"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="d7801c85-cdeb-4cae-9692-094af8be7121"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="72b6c95e-eab1-d8fb-787f-06fcf1994bd6"/>
+																	<attribute id="MapKey" type="FixedString" value="d7b7cf53-fe71-4a23-8011-9675a6e1d902"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="d8b7f668-db2b-43b0-9707-5da2ed2cf27e"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="da8fc008-67fa-4868-baf1-307ad6220513"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="e6beb27f-5f84-5d7a-b5fd-9ca90b8cd08c"/>
+																	<attribute id="MapKey" type="FixedString" value="db0c8bad-7936-408c-9b8c-0378c96e2713"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="db84ea24-b93a-49cd-8659-577ea74e5de1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="de006e3f-70fb-4eb7-a98d-d845d15b20e8"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="de9ab201-2e8d-4385-84e3-1a77c22861d1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="5a578459-1b40-5b76-a1b8-5849aefdeaf6"/>
+																	<attribute id="MapKey" type="FixedString" value="e0b6c473-eb97-4c43-9c07-2071d2e573b9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="e15cd2bb-e3e9-4e36-9037-8a7b68e26454"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="2cb197f3-3d47-5b55-9425-cda6d593dbf6"/>
+																	<attribute id="MapKey" type="FixedString" value="e169b3f4-e10d-4afa-a732-729aaf989fbb"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="e22702f5-04d5-41a1-97ac-9b9f6b317d98"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="e24fddf7-6ad6-4bd1-831e-4bcc76d6906b"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="e271c40e-2584-43e2-a30c-113287e0452a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="e3dca236-9064-4613-8d5f-2b8b40f3294d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="e404fe07-9d44-433d-be31-b05d7e5d907f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="e46d0a23-6ff2-4e20-9760-7896894f2f1a"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="e4720874-2cf5-479c-b360-35642d0068bc"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="e6af1757-da0b-4640-8ce5-ea559816d2b0"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="e81ffae4-6be0-47fd-8502-48b9961004e9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="c13473c8-0e21-5a60-9a24-f41be311f81d"/>
+																	<attribute id="MapKey" type="FixedString" value="e8a5c57f-855b-4227-acaa-11e8ce8d7d64"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="ea42da9e-15b5-4404-8fe2-9c0080b019c9"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="eae1adf8-8a4b-46f7-8fcf-c16a02b03d3d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="eb054308-7fce-4b85-bf4c-7a0031fda7ac"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="72b6c95e-eab1-d8fb-787f-06fcf1994bd6"/>
+																	<attribute id="MapKey" type="FixedString" value="eecf9fb5-6669-4ed0-8a44-d5e3762d0a05"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="f04c4e0b-c35a-47ef-8e7f-1036f690a665"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="f2849708-05fa-405a-ba15-3bacbe1a3d56"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="f43888ef-1069-40d8-9159-ca0bc413fd5f"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="f49c1788-7819-481f-9b83-2344d708e682"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="8e100459-7a75-5647-997e-3a6a149b337b"/>
+																	<attribute id="MapKey" type="FixedString" value="f4ac302b-1569-404f-bd52-1fe443e265df"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="f53629c3-7632-4306-9102-a96624e5c084"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="d05c593c-a493-5109-a4af-755af89e6e04"/>
+																	<attribute id="MapKey" type="FixedString" value="f8b91266-f61b-46e2-95ad-34e86a83204d"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="f8fe2e89-2313-48f7-963c-0907b6306fd1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="fc056b37-e38f-429b-a606-e3f54e79edd1"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="fc43a390-269b-4207-a7fc-fc6b015eeb11"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="fd5e6365-f314-42e8-a39b-a041dc56b0e7"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="6be485f5-3dd7-4aee-7655-72cd48e58186"/>
+																	<attribute id="MapKey" type="FixedString" value="fe72feb8-ead8-4b79-be46-2a4a34df40c3"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="53d18f14-0007-549d-ad24-793b4a39335d"/>
+																	<attribute id="MapKey" type="FixedString" value="ff165c3d-2b23-4f79-a592-3b7799574494"/>
+																</node>
+																<node id="Object">
+																	<attribute id="ID" type="FixedString" value="e6c075be-3766-5138-8120-b009261d4b26"/>
+																	<attribute id="MapKey" type="FixedString" value="ff38dc8d-0070-4322-b274-8a70f24dead2"/>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="CharacterVisualBank">
+		<node id="CharacterVisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="bb572bfb-8716-5eb8-b473-4d85af8ed472"/>
+					<attribute id="BodySetVisual" type="FixedString" value="5844543a-3ccb-bd65-3edd-40f4a2f47bd5"/>
+					<attribute id="ID" type="FixedString" value="8e2fec20-c882-5287-ab12-9763595fd9a6"/>
+					<attribute id="Localized" type="bool" value="False"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snakestaff_Snake"/>
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value=""/>
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True"/>
+									<attribute id="GroupName" type="FixedString" value=""/>
+									<attribute id="MaterialPresetResource" type="FixedString" value=""/>
+								</node>
+								<node id="MaterialPresets"/>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head"/>
+							<attribute id="VisualResource" type="FixedString" value="68cb4a62-25b7-5744-b77d-3fa646d13580"/>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value=""/>
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value=""/>
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value=""/>
+					<attribute id="BoundsMax" type="fvec3" value="0.03490407 0.07673261 -1.0730002"/>
+					<attribute id="BoundsMin" type="fvec3" value="-0.03490407 -0.00045245077 -1.3121861"/>
+					<attribute id="ClothColliderResourceID" type="FixedString" value=""/>
+					<attribute id="HairPresetResourceId" type="FixedString" value=""/>
+					<attribute id="HairType" type="uint8" value="0"/>
+					<attribute id="ID" type="FixedString" value="68cb4a62-25b7-5744-b77d-3fa646d13580"/>
+					<attribute id="MaterialType" type="uint8" value="0"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snakestaff_Head"/>
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False"/>
+					<attribute id="RemapperSlotId" type="FixedString" value=""/>
+					<attribute id="ScalpMaterialId" type="FixedString" value=""/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SkeletonSlot" type="FixedString" value=""/>
+					<attribute id="Slot" type="FixedString" value="Head"/>
+					<attribute id="SoftbodyResourceID" type="FixedString" value=""/>
+					<attribute id="SourceFile" type="LSString" value="Public/MartyrValdas/Assets/Characters/Snakestaff_Head/Martyr_Snake_Head.GR2"/>
+					<attribute id="SupportsVertexColorMask" type="bool" value="False"/>
+					<attribute id="Template" type="FixedString" value="Public/MartyrValdas/Assets/Characters/Snakestaff_Head/Martyr_Snake_Head.Dummy_Root.0"/>
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="62d007d3-cc86-47e3-aada-1ace63c8fd14"/>
+						</node>
+						<node id="Base"/>
+						<node id="ClothProxyMapping"/>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0"/>
+							<attribute id="MaterialID" type="FixedString" value="a198fd22-d66f-d586-b183-1d3a063124db"/>
+							<attribute id="ObjectID" type="FixedString" value="Martyr_Snake_Head.SNAKE_Viper_Head_A_Eyes_Mesh.0"/>
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0"/>
+							<attribute id="MaterialID" type="FixedString" value="623df39d-8e0e-16ab-0046-2590004b4a28"/>
+							<attribute id="ObjectID" type="FixedString" value="Martyr_Snake_Head.SNAKE_Viper_Head_A_Mesh.1"/>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value=""/>
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value=""/>
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="5a295b64-7ed7-ca98-086f-243b818fd3a1"/>
+					<attribute id="BoundsMax" type="fvec3" value="0 0 0"/>
+					<attribute id="BoundsMin" type="fvec3" value="0 0 0"/>
+					<attribute id="Center" type="fvec3" value="0 0 0"/>
+					<attribute id="HairType" type="uint8" value="0"/>
+					<attribute id="ID" type="FixedString" value="bb572bfb-8716-5eb8-b473-4d85af8ed472"/>
+					<attribute id="Initialized" type="bool" value="False"/>
+					<attribute id="Localized" type="bool" value="False"/>
+					<attribute id="MaterialType" type="uint8" value="0"/>
+					<attribute id="Name" type="LSString" value="Martyr_Snakestaff_Base"/>
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False"/>
+					<attribute id="Radius" type="float" value="0"/>
+					<attribute id="SkeletonResource" type="FixedString" value="a0510a19-a986-0625-e1ab-306b101c97b0"/>
+					<attribute id="SkeletonSlot" type="FixedString" value=""/>
+					<attribute id="Slot" type="FixedString" value="Unassigned"/>
+					<attribute id="SoftbodyResourceID" type="FixedString" value=""/>
+					<attribute id="SupportsVertexColorMask" type="bool" value="False"/>
+					<attribute id="Template" type="FixedString" value="EMPTY_VISUAL_TEMPLATE"/>
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="62d007d3-cc86-47e3-aada-1ace63c8fd14"/>
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="b07225fe-e95e-a0f5-7d26-781fa43e1086"/>
+						</node>
+						<node id="Base"/>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

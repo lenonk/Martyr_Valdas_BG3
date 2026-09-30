@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h001eb791c4f1494c05a7ef60b9f03c0b" version="1">Torment</content>
+  <content contentuid="h0769a7e4c8ab1497e9213805d17d8117" version="1">When you cast a spell that has the sole effect of restoring hit points, you lose no hit points from casting the spell, though it still counts against your total number of spell uses.</content>
+  <content contentuid="h107299cab75fdf55b173e392c935d91a" version="1">Serve as a prophet of hard truths, exposing deception and compelling honesty.</content>
+  <content contentuid="h1a227a9576c1fef149344da6975a82c1" version="1">The number of martyr spells you can cast before a short or long rest. Casting a martyr spell also costs your own hit points.</content>
+  <content contentuid="h24da87f112afbaab9db2bfc3dbd19218" version="1">Burden of Discord</content>
+  <content contentuid="h2c337649211466b1884bda61578d7eac" version="1">Burden of Revolution</content>
+  <content contentuid="h4234f96d956889cbf94d6a9e7a5de762" version="1">You gain proficiency with Heavy Armour.</content>
+  <content contentuid="h43a77b697ba0aa3442abcdf96446b36e" version="1">Ease suffering, heal the afflicted, and carry hope into the darkest places.</content>
+  <content contentuid="h452e73616529946e9a8a12b8437f9b6a" version="1">Balm</content>
+  <content contentuid="h4ae782a4c28b3c8453c3e444c5811146" version="1">Once per long rest, when you would be downed, cling to life at 1 hit point instead.</content>
+  <content contentuid="h4bdbcbef9b9f809504b7a8bd6b5fcb91" version="1">Burden of Truth</content>
+  <content contentuid="h4ecac1c42f5a89602d5b679fd41cb83a" version="1">Spread sacred havoc, upsetting the status quo through unpredictable violence and magic.</content>
+  <content contentuid="h5024e02faf2880ac942eab9e26a877a3" version="1">Redeem a stained past by shielding others and bearing punishment in their place.</content>
+  <content contentuid="h523d1389f7e92abe4c7edc0558fc7737" version="1">Maxim of Truth</content>
+  <content contentuid="h5478abdc6f02ce15a995272003418cc7" version="1">Undying Conviction</content>
+  <content contentuid="h600be3536b35ab1e70803256871cd78e" version="1">Friend of the Forest</content>
+  <content contentuid="h66837bb6288d32d55c7030b437f68165" version="1">Sainted Reprisal</content>
+  <content contentuid="h6da6109cc58c3693057b021098388b8a" version="1">Stand between the world and catastrophe, armed with prophetic magic against the coming end.</content>
+  <content contentuid="h80fc516f2192078e3a8262c5c3dc73a1" version="1">Break tyrants and free the oppressed through direct, often martial, rebellion.</content>
+  <content contentuid="h8262d34970dfad7731c3b393bbcd0ad1" version="1">Burden of Mercy</content>
+  <content contentuid="h83da192e295e51cdfe40b2f6e933348d" version="1">Choose one creature you can see which can see you within 18m to make a Wisdom saving throw. On a failed save, the creature is Charmed or Frightened by you (the target's choice) for up to 1 minute. It can repeat this saving throw on each of its turns, ending the effect on a success. Once you use this ability, you can't use it again until you finish a short or long rest.</content>
+  <content contentuid="h85ca7806dd2ffd37ffda12789f74bd52" version="1">As a bonus action, gain temporary hit points equal to 1d10 + your level. Recharges on a short rest.</content>
+  <content contentuid="h86987ea048dbdec84a87d5d814a2fb59" version="1">A divinely ordained warrior whose suffering is sacred. Martyrs spend their own hit points to fuel spells and turn pain into supernatural power.</content>
+  <content contentuid="h8855352ba8e68e4ea285f219045da15e" version="1">You have learned to curry the gods' favor through anguish and mortal trials. Once on each of your turns when you hit a creature with a melee weapon attack, you can lose 5 hit points to deal a bonus +10 necrotic or radiant damage (your choice) to the target. You don't make Constitution saving throws to maintain concentration on spells as a result of losing these hit points.&lt;br&gt;&lt;br&gt;Starting at 11th level, you can lose 10 hit points to deal an additional +20 damage to the target.</content>
+  <content contentuid="h8d9e9cbf619ee2679d2a74ae693c53ed" version="1">Restore what war and civilization destroy, defending the balance of the natural world.</content>
+  <content contentuid="h923cb7bc99101c86900f2290dc9479f1" version="1">Mark of the Herald</content>
+  <content contentuid="h936fc0e880ee339fdbeaaaaa3124d160" version="1">You can utter a prayer to the gods for mercy. As an action, you can spend Hit Dice and regain hit points as if you had just finished a short rest. When you use this ability, you can spend a number of Hit Dice up to your proficiency bonus.</content>
+  <content contentuid="h988a030fa34dc16258762b3492ecd6e9" version="1">Your death is appointed, but not yet due. When you fall to 0 hit points and begin to make death saving throws, you must fail 5 saving throws to die.</content>
+  <content contentuid="ha23dfb6a529a0fde7b3e30f5afbd27b0" version="1">Bonus Proficiency: Heavy Armour</content>
+  <content contentuid="hae1747023928db075b19cb4a08f872cf" version="1">Diabolic Ultimatum</content>
+  <content contentuid="hae3303d8e03acea782aef451720c63fe" version="1">Martyr</content>
+  <content contentuid="hb640e02e5ec52c662894a3b1d755d198" version="1">Divine Healing</content>
+  <content contentuid="hba3573c565ca678e1943a50ffa0407cc" version="1">Speak with animals without paying the Martyr hit-point cost. Recharges on a short rest.</content>
+  <content contentuid="hc210c1d8f66b82c7e31fd3c3167f6862" version="1">As a bonus action, either restore 1d4 + your Wisdom modifier hit points to another creature within 18m, or end the Blinded or Poisoned condition on a creature you touch. Once you use Balm, you can't use it again until you finish a short or long rest.</content>
+  <content contentuid="hc3266594abcdf6751ff626cf6469815d" version="1">Your divine cause manifests itself upon you, forming a special mark or stigmata for all to see. You have Advantage on Persuasion checks.</content>
+  <content contentuid="hc416f549d1575237d5f2203731f69f2d" version="1">If Torment kills its target, its self-damage is refunded.</content>
+  <content contentuid="hc69104d5f65772ae695e14bd6ecf4338" version="1">Sacrosanct Spell</content>
+  <content contentuid="hc76957685745588c1f9422a7029e4cab" version="1">Conquer, command, and demand submission in the name of cruel divinity.</content>
+  <content contentuid="hd10df2f9c7d11fe7bf094644f79194d9" version="1">You can reprimand those who draw your blood. When a creature you can see within 5 feet of you hits you with a melee attack, you can use your reaction to deal that creature 1d6 necrotic or radiant damage (your choice). The damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).</content>
+  <content contentuid="hd5c5818e7d0000726a2b53f66ceb225e" version="1">Burden of the End</content>
+  <content contentuid="hd7c3b83b07830b558bcdf31332a4b928" version="1">Ordained Death</content>
+  <content contentuid="hdc044c3a43c8d4da57919ba104d7ef87" version="1">You regain all spent Hit Dice when you finish a long rest, instead of only half of them.</content>
+  <content contentuid="hdc154fbfdff9a1d206cf89e53ac7ccfd" version="1">As a bonus action, for 10 turns nothing can hide from you: enemies within 3m of you lose invisibility, can't turn invisible or hide, and lose Blur, Mirror Image and Displacement. Once you use this, you can't use it again until you finish a short or long rest.</content>
+  <content contentuid="hdff3a2f67cd1569850c41127d0b6c426" version="1">Burden of Rebirth</content>
+  <content contentuid="he875f7cc189d849eba3cda89ff127c77" version="1">Blooded Reprieve</content>
+  <content contentuid="hec054aa1275848036490006b6eede962" version="1">Respite</content>
+  <content contentuid="hf1c75dbce018e351a9bf09fa33325608" version="1">Burden of Tyranny</content>
+  <content contentuid="hf2523d3b3d0213996e29cadae93e92e6" version="1">Bulwark of Rebellion</content>
+  <content contentuid="hf60a7086b36c777e5076f86f32ac55fd" version="1">Burden of Atonement</content>
+  <content contentuid="hfe58ae6d44647740892a80655bda657b" version="1">Martyr Spell Uses</content>
+  <content contentuid="h7b1cdf43g7e57g5b3dgab3bg391b352163ed" version="1">Boomering</content>
+  <content contentuid="h506ea055gc66dg54bdg8522g4a5bed7a3ad6" version="1">Hurl a spinning crescent of radiance: a ranged spell attack that deals 3d6 Radiant damage. If it misses, it arcs back and attacks the target once more.</content>
+  <content contentuid="hfa4ce2d6g4f1eg5e45g82ffg118e1e588981" version="1">Burnt Offering</content>
+  <content contentuid="h08e7be0cg6f52g5aadg9316g0ba631a2030a" version="1">Offer a sacrifice upon a pyre. Until your next long rest, you add your Wisdom modifier to your Armour Class instead of your Dexterity modifier. Can't be cast in combat.</content>
+  <content contentuid="ha9ec5501gff17g5c90gb11age772ccd2d2af" version="1">Burnt Offering</content>
+  <content contentuid="hc2e68d8ag4b68g5f5egb795g2ff77879c553" version="1">Adds Wisdom modifier to Armour Class in place of Dexterity modifier.</content>
+  <content contentuid="h9c6b99a4g27fbg5f05gb82fg4abc3bcce1d5" version="1">Indemnify</content>
+  <content contentuid="h05ac33f4g62a4g5343g983bg8a00afd44d9e" version="1">Bind a creature's fate to your suffering. If it fails a Constitution saving throw, it takes 1d8 Radiant damage whenever you lose hit points, for as long as you concentrate.</content>
+  <content contentuid="hb6781d8cgd893g556bg8d81g10018f2ca1fd" version="1">Indemnified</content>
+  <content contentuid="h918b540fg57a1g5c5cg95c0g6485e8fc7bb7" version="1">Takes 1d8 Radiant damage whenever the martyr who cast this loses hit points.</content>
+  <content contentuid="he64c8987geea7g59d9g8471g604b96110e60" version="1">Instant Replay</content>
+  <content contentuid="hb06d1f01g44e0g5830ga5e5gab67ae47d695" version="1">Hold a moment of time in reserve. You have Advantage on your next attack roll within 10 turns.</content>
+  <content contentuid="h2a281f8eg0d9dg51d9gb3efg7ce1c9b740df" version="1">Instant Replay</content>
+  <content contentuid="hba031371g8b65g552agbcc5g58357d7fce23" version="1">Has Advantage on the next attack roll.</content>
+  <content contentuid="hfb237d43g8048g55d8g8527ge561fa25f32c" version="1">Transient Bulwark</content>
+  <content contentuid="h84ebce23g3435g5f0agbc9fgd4f55e3022f7" version="1">Raise a fleeting ward. The next 3 attacks made against you have a -10 penalty to hit.</content>
+  <content contentuid="h5dd706c4g14cbg54d6g963dga4861173d1dd" version="1">Transient Bulwark</content>
+  <content contentuid="h95f43236g1785g52f7g844dg6b067e7c4ebc" version="1">The next 3 attacks against this creature have a -10 penalty to hit.</content>
+  <content contentuid="he629ae50g435dg5f3bg97f7g8f30ba9cffa8" version="1">Curse Ward</content>
+  <content contentuid="h0ef4ae93g18c6g562bg9db3g8492de755524" version="1">Touch a creature to ward it against dark magic until its next long rest: it has Resistance to Necrotic damage and can't be cursed or possessed.</content>
+  <content contentuid="h85b2db95g551ag5fd8gac70geed8e14e595f" version="1">Curse Ward</content>
+  <content contentuid="he36b9108g0914g5bc4gb5e2g148b932b061c" version="1">Resistant to Necrotic damage. Can't be cursed or possessed.</content>
+  <content contentuid="h224b0202g30beg5ee9g9b8bg68add16a57e2" version="1">Halo of Flame</content>
+  <content contentuid="he82309b3gc6ccg5289g9c5cg249112dda5b5" version="1">A ring of holy fire erupts around you. Creatures you choose within 3m make a Dexterity saving throw, taking 4d6 Fire damage on a failure or half as much on a success.</content>
+  <content contentuid="h0da6bcc8gf078g5a5cga856g64132ec69d39" version="1">Stone Bones</content>
+  <content contentuid="hef5eb10dg420cg5b58ga2d0g6a72b6d62a89" version="1">A creature's bones harden like stone. Until the end of its next turn it has Resistance to non-magical Bludgeoning, Piercing and Slashing damage.</content>
+  <content contentuid="h463364f0ga2bag5e1egb4f0g92ff0316cfd8" version="1">Stone Bones</content>
+  <content contentuid="h07729f34g0b9eg5876g847agf746129c261c" version="1">Resistant to non-magical Bludgeoning, Piercing and Slashing damage.</content>
+  <content contentuid="ha277a2c7gb626g5015ga32eg7fde9d55af28" version="1">Pillar of Salt</content>
+  <content contentuid="h4782133bg3739g560fg8496g9f6ca04a3032" version="1">Creatures you choose within 3m of a point make a Constitution saving throw, taking 7d6 Necrotic damage on a failure or half as much on a success.</content>
+  <content contentuid="hbbc46216ge426g5dedga7d4g9ee12e61e7ae" version="1">Polybrachia</content>
+  <content contentuid="head8b0f2g3a37g5fbeg831eg5ba53a40413d" version="1">Touch a creature and it sprouts two extra arms for 10 turns, while you concentrate. It has Advantage on Athletics checks and can make a melee weapon attack as a bonus action.</content>
+  <content contentuid="hc03c9863gd9d9g598fg9e5dgb55170df7bcf" version="1">Polybrachia</content>
+  <content contentuid="hcf36dfd0geacdg5ea1gb323gb814175452bc" version="1">Has two extra arms: Advantage on Athletics checks and a melee weapon attack as a bonus action.</content>
+  <content contentuid="h78721d61gace6g5adcgb3bfg460ea4343261" version="1">Polybrachia Strike</content>
+  <content contentuid="hf492b8cag4491g5597g8c5agd1c809febf40" version="1">Strike with your extra arms: a melee weapon attack.</content>
+  <content contentuid="h1056f447gee2bg59c6g8e71g7d6c372b1fcc" version="1">Boomering</content>
+  <content contentuid="hdbb864b5gba2ag596cg80adgcf0d132b08be" version="1">Boomering arcs back if it misses: its attack roll has Advantage.</content>
+  <content contentuid="hb5da9c53g1265g5e12ga981gc8a568bf7571" version="1">The next 2 attacks against this creature have a -10 penalty to hit.</content>
+  <content contentuid="h4bbb4da6g36f9g5ef7gb1edg72dfe984c7ff" version="1">The next attack against this creature has a -10 penalty to hit.</content>
+  <content contentuid="h27678d19g9412g5122g96b2g6733a138cfcb" version="1">Blood Print</content>
+  <content contentuid="h6d73d07eg03a7g5221ga289g78d2dce7054d" version="1">Identify the unique signature of a creature's blood and mark it as your quarry until your next long rest. It can't turn invisible, you don't have Disadvantage on attacks against it when it is heavily obscured, and once per turn when you deal damage to it you deal an extra [1]. A creature that is Bleeding automatically fails the saving throw.</content>
+  <content contentuid="h8ef9bf53g0499g596dg9ee9g200820e86c18" version="1">Blood Printed</content>
+  <content contentuid="h1d031d67g3d02g52c1g801fgcb7aecf359c3" version="1">Marked as a martyr's quarry. It can't turn invisible, its martyr doesn't have Disadvantage attacking it while it is heavily obscured, and deals extra Radiant damage to it once per turn.</content>
+  <content contentuid="h6429d79bg8947g573fg8042g7ea400dee4e2" version="1">Blood Print Quarry</content>
+  <content contentuid="h775ec45cg16c8g5207g9173g566e9c6a9ded" version="1">Once per turn, deal extra Radiant damage to the creature you have Blood Printed.</content>
+  <content contentuid="h90aca4b1gc84dg5aa2gbb29gf59255037503" version="1">Torment: Radiant</content>
+  <content contentuid="hbf18fec3g7473g573fgad5egf8f7e660f96d" version="1">Once on each of your turns, when you hit a creature with a melee weapon attack, lose 5 hit points to deal an extra 10 Radiant damage to it. From 11th level, lose 10 hit points to deal an extra 20.</content>
+  <content contentuid="hc359a87cg9b8cg5032gbda0g69c2ab0e55e6" version="1">Torment: Necrotic</content>
+  <content contentuid="h472a726egd332g5ab1g9838g91615a872cbc" version="1">Once on each of your turns, when you hit a creature with a melee weapon attack, lose 5 hit points to deal an extra 10 Necrotic damage to it. From 11th level, lose 10 hit points to deal an extra 20.</content>
+  <content contentuid="h5465f663g1602g51c0g94fbg50e13c6baf2e" version="1">Burden spells are always prepared and don't count against the number of martyr spells you can prepare.</content>
+  <content contentuid="hc1a4882egeab7g5573g8542g9776bf5b61fa" version="1">Burden Spells</content>
+  <content contentuid="h7debc864g9c62g59a4ga23eg7f07672cae81" version="1">Torment Spent</content>
+  <content contentuid="h05e98911g301ag5e30gb784gce1bcc655948" version="1">You have used Torment this turn.</content>
+  <content contentuid="hafb4c01fg007dg512dga46agdefde69a5595" version="1">Healing Magic</content>
+  <content contentuid="h4dd05a5fge206g59a5g863dg1308cb1fe15a" version="1">Because your power is derived from mortal suffering, you can't regain hit points from any spell you cast.</content>
+  <content contentuid="hea34bd5bg55c5g5115gba50g383b8d3de839" version="1">Martyr Hit Dice, spent by Divine Healing. You regain half of them (all of them with Respite) on a long rest.</content>
+  <content contentuid="h2bb4fadcgff39g5741gba88ge80d1351c838" version="1">Hit Dice</content>
+  <content contentuid="h9e551a85g20d1g5298g8bc4g674dfd7abfb7" version="1">Spend Hit Dice to regain hit points.</content>
+  <content contentuid="h951b0e89g9c67g555cg85a2g09a402c175bc" version="1">Divine Healing: 1 Hit Die</content>
+  <content contentuid="hc1ef2d90ge89bg5988g925bg4448947ce425" version="1">Divine Healing: 2 Hit Dice</content>
+  <content contentuid="h3fa43d42g51f2g52d4gb4c5g1a36f290fa91" version="1">Divine Healing: 3 Hit Dice</content>
+  <content contentuid="h6e0ffba1g47e2g5dd5ga067gac13d3f475ac" version="1">Divine Healing: 4 Hit Dice</content>
+  <content contentuid="h70468a39g3c51g5205g88c5g5bdf78e76b74" version="1">Blood Print (1st level)</content>
+  <content contentuid="h94f76b0cged22g5f04g941egd598cfcaf988" version="1">Identify the unique signature of a creature's blood and mark it as your quarry until your next long rest. It can't turn invisible, you don't have Disadvantage on attacks against it when it is heavily obscured, and once per turn when you deal damage to it you deal an extra 1d4 Radiant damage for each level you cast it at. A creature that is Bleeding automatically fails the saving throw. Costs 5 hit points per level.</content>
+  <content contentuid="h37790b66ga004g58f0gabc3gea54011fa52a" version="1">Blood Print (2nd level)</content>
+  <content contentuid="h7fc8b192gaae7g5a84gb98dgda268baf2760" version="1">Blood Print (3rd level)</content>
+  <content contentuid="h3972dd89gc2f3g50b0g92c4gba62fd45cb24" version="1">Blood Print (4th level)</content>
+  <content contentuid="h65e587adg9aedg53ddg8e57g02ca1ac2d90d" version="1">Blood Print (5th level)</content>
+  <content contentuid="h4ebd08deg88d5g5830g84b0gb53a6d52122c" version="1">Self-Sacrifice</content>
+  <content contentuid="h96bf82bcg7657g5cf8ga036gadce2f0c50f2" version="1">You can dive in the way of an attack. When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to change the target of the attack to yourself instead.&lt;br&gt;&lt;br&gt;Once you use this ability, you can't use it again until you finish a short or long rest.</content>
+  <content contentuid="ha952bf4eg21ddg57b0g827cgf841f75f601c" version="1">An enemy is attacking an ally. Redirect the attack to yourself.</content>
+  <content contentuid="h91a56d7bg4837g5b8egb2dbg3df6a5f39114" version="1">Snakestaff</content>
+  <content contentuid="h9b23a862g6f79g584egb6d7g2835ad093c0f" version="1">You cast a staff to the ground, which writhes and grows into a giant constrictor snake under your control. It fights alongside you until it is reduced to 0 hit points, for up to 1 hour.</content>
+  <content contentuid="h50f246ecg9077g5ceaga45fg36be7991cf9b" version="1">Giant Constrictor Snake</content>
+  <content contentuid="h4efd2c18gc718g5b77ga257g42e215908724" version="1">Bite</content>
+  <content contentuid="h0ad79801g8e2eg5c61g859bg4a583c69afcb" version="1">Bite a creature within reach.</content>
+  <content contentuid="h50adf6cfg3482g5228gb377gdad6906c2194" version="1">Constrict</content>
+  <content contentuid="hce8ec46dg72beg5024gb0ffgb29ae9d7727f" version="1">Coil around a creature and crush it. On a hit it is grappled (escape DC 16) and Restrained until the grapple ends, and takes the crushing damage again at the start of each of its turns. The grapple ends if the snake moves away. The snake can&apos;t constrict another creature meanwhile.</content>
+  <content contentuid="h58cda116gc899g575dg8dffgc79901cf73ac" version="1">Constricted</content>
+  <content contentuid="hae67fbaeg5dbag5a84g9a5eg5cb0f0acb162" version="1">Crushed in a giant snake&apos;s coils: grappled and Restrained, taking [1] at the start of each turn. Use an action to escape with a DC 16 Athletics or Acrobatics check.</content>
+  <content contentuid="h5ef7c9aagb941g5202gbeabgbb80cab2068d" version="1">Giant</content>
+  <content contentuid="hb5e9fc67gfdedg5e1agacfcgef596fe83848" version="1">Constricting</content>
+  <content contentuid="ha4f47a6cg8efag5764g9b5cg949e6a3d1d47" version="1">Holding a creature in its coils. Can't constrict another creature until it lets go.</content>
+  <content contentuid="ha84708b1gaf0eg50fegb453ga85aeb55956f" version="1">Escape the Coils (Athletics)</content>
+  <content contentuid="hfccfbb28g88e3g56dag85a9gd84cd1b940af" version="1">Escape the Coils (Acrobatics)</content>
+  <content contentuid="hf056c937gaf6cg57a0ga2afg5a767a39167f" version="1">Try to break free of the snake's coils with a DC 16 check.</content>
+  <content contentuid="hecc014f3g1e9cg5a49gbb2cgb9c279efa32f" version="1">Bless (1st level)</content>
+  <content contentuid="he7a27958g973dg5036gb1a8g3fe67d026275" version="1">Bless (2nd level)</content>
+  <content contentuid="h2e52255fg0704g516egafe6gf22e2a7798f7" version="1">Bless (3rd level)</content>
+  <content contentuid="hcc18eb15g8da5g58e9gb695g07f283aff682" version="1">Cure Wounds (1st level)</content>
+  <content contentuid="hf6114fabga2c0g5833g87f8gbaa8fb825578" version="1">Cure Wounds (2nd level)</content>
+  <content contentuid="h6ab1f5b2g1f29g538egbf6eg2ec7e8e6c05f" version="1">Cure Wounds (3rd level)</content>
+  <content contentuid="h652b3ff8gfbf3g5304ga8d9gf0762a02109b" version="1">Guiding Bolt (1st level)</content>
+  <content contentuid="h5fb8be99g8e60g517dg81f1gb7acd64f4378" version="1">Guiding Bolt (2nd level)</content>
+  <content contentuid="hbc4ffff6g6328g5744g918dg2000f56fee96" version="1">Guiding Bolt (3rd level)</content>
+  <content contentuid="hd305453cgd208g5a23g8b36gf025df9c7b77" version="1">Heroism (1st level)</content>
+  <content contentuid="h26a6e9fag14c4g558eg96a7g9eba09a42163" version="1">Heroism (2nd level)</content>
+  <content contentuid="hd3d1095eg88aeg55ffgbf96g816df1d2d7d8" version="1">Heroism (3rd level)</content>
+  <content contentuid="hcc58d7b9g9b7ag503eg86dcge88518b9c5e0" version="1">Inflict Wounds (1st level)</content>
+  <content contentuid="h593db129gd363g5758g9f1eg4c9eae5b34a4" version="1">Inflict Wounds (2nd level)</content>
+  <content contentuid="hf67af619g6dbdg5435ga819gdc3ca8f1fd2c" version="1">Inflict Wounds (3rd level)</content>
+  <content contentuid="h471cf22bg2624g5e98g9a22gc1eae74ce44e" version="1">Aid (2nd level)</content>
+  <content contentuid="hca455212gbbdfg550ag9e3egd9e652e5fc3d" version="1">Aid (3rd level)</content>
+  <content contentuid="h2999a68fg8020g5038ga02dg89d778b4f076" version="1">Halo of Flame (2nd level)</content>
+  <content contentuid="h02cf4a96g5142g5eadg8e48g7d81751b5a5b" version="1">Halo of Flame (3rd level)</content>
+  <content contentuid="h29da7d3fg3adfg592ag840bge544e111a833" version="1">Havoc!</content>
+  <content contentuid="h844464b8g967bg5bfdg841bg80a902a34530" version="1">You can stoke the flames of chaos with your sword. When you hit a hostile creature with a melee weapon attack, you can roll on the table to the right to trigger an additional effect.</content>
+  <content contentuid="ha28d12a2g58bdg59e2ga51dg04aa132ad49a" version="1">Brittle Glass</content>
+  <content contentuid="h69737e81geabeg56beg8cfdg6004584d459d" version="1">Skin turned to brittle glass: Armour Class reduced by 3.</content>
+  <content contentuid="h4de17589ge52dg50f7g8d6fg125348c4ae96" version="1">Havoc! 1: Your foe is shielded</content>
+  <content contentuid="hae9e79eagca13g5ba2g9061g6f513ed1d60b" version="1">Havoc! 2: Lightning strikes you both</content>
+  <content contentuid="h656d8182g4cd5g51e6g8e2cg933e77434624" version="1">Havoc! 3: Your foe is Indemnified</content>
+  <content contentuid="h999caa7fg27e7g57afg8e27gd35cf5c0c331" version="1">Havoc! 4: Darkness falls</content>
+  <content contentuid="h557b39f5g58d5g595bgb693gddb306a40971" version="1">Havoc! 5: You vanish</content>
+  <content contentuid="h517b738ag2683g54aega5fcgbed5b21de93a" version="1">Havoc! 6: Your foe bursts into flames</content>
+  <content contentuid="h84e490ceg8097g5be6g9c52gb3541521ee93" version="1">Havoc! 7: Your foe's skin turns to glass</content>
+  <content contentuid="h969a3b62g6ea0g5bccgbd73gddcc81cb6102" version="1">Havoc! 8: Your foe falls prone</content>
+  <content contentuid="hcbf5ea28gcd14g598bgadc5g5cd3331ec4f3" version="1">Havoc! 9: Something explodes</content>
+  <content contentuid="h6d381924g03c2g501fgb76cgfb36292c75ec" version="1">Havoc! 10: Roll twice</content>
+  <content contentuid="h4cfbd878g9be0g572ag8e22g49466a22cf31" version="1">Herald of the End</content>
+  <content contentuid="h6d7107dbg6b3bg5a3agbd2fgfda88e957cfe" version="1">Your magic carries the certainty of the end. When you roll damage for a spell, any die that comes up 1 is rolled again, and it can't come up 1 a second time.</content>
+  <content contentuid="h344de1d1gbadbg5005gbf4bg5ff4139b4079" version="1">Boomering (1st level)</content>
+  <content contentuid="hd0a91314g9f70g5cc3g8498g66c3c4c7b8f2" version="1">Boomering (2nd level)</content>
+  <content contentuid="h8ec98ca5gc312g5838ga58dg4e5899857995" version="1">Boomering (3rd level)</content>
+  <content contentuid="h4bf88641gcf9ag475fg874eg772264a77622" version="1">Protection from Ballistics</content>
+  <content contentuid="h811d00e7g17c1g4404ga103g17224695417a" version="1">A shimmering shield of energy surrounds a creature you touch. For the duration, ranged attacks with ballistic weapons (bows, crossbows, slings and firearms) and thrown objects have Disadvantage against it, and it has Resistance to their damage.</content>
+  <content contentuid="h5b505fdfg699fg4ee2g8a6cg8b57f856371a" version="1">Protection from Ballistics</content>
+  <content contentuid="h6c703b35g8a4dg4f6cgad18g3ea60d535255" version="1">Ranged attacks with ballistic weapons and thrown objects have Disadvantage against this creature, and it has Resistance to their damage.</content>
+  <content contentuid="h5ece4a48g81adg4584g9a71g500a57ab0349" version="1">Balm: Heal</content>
+  <content contentuid="h4a060977g660dg44a4g89bcg61691449df8d" version="1">Restore 1d4 + your Wisdom modifier hit points to another creature within 18m. Uses Balm until you finish a short or long rest.</content>
+  <content contentuid="hc8b04bcbg16f6g4b47g985cg892bbcd14a06" version="1">Balm: Cleanse</content>
+  <content contentuid="h08a85bcbg6edcg4da3g99d2g9f1127f5ccc5" version="1">End the Blinded or Poisoned condition on a creature you touch. Uses Balm until you finish a short or long rest.</content>
+  <content contentuid="h92e9ae85ge74eg475cga47dgfcaa421833a8" version="1">Healing Word (1st level)</content>
+  <content contentuid="h05d26c58g2ecfg4533g987ag030fac4186e9" version="1">Healing Word (2nd level)</content>
+  <content contentuid="h95b2524ag8edfg4cc6ga8d3g7d6fe837d5d2" version="1">Healing Word (3rd level)</content>
+  <content contentuid="h43696defgb03fg4cd5g9c37ga4a1ad25ce56" version="1">Exposed</content>
+  <content contentuid="h2864e67dgbaedg4b41gadd3gb504b4f40281" version="1">Within a Martyr's Maxim of Truth: can't be invisible or hidden, and loses Blur, Mirror Image and Displacement.</content>
+  <content contentuid="h47445ac1ge82dg41fagbcacg4d3deae37f5a" version="1">Moral Erudition</content>
+  <content contentuid="h612be7c4g569bg4497gbe44g5fc22e294dff" version="1">You use your Wisdom modifier instead of your Charisma modifier for Persuasion checks, if it is higher. Others can naturally sense when you are telling the truth.</content>
+  <content contentuid="h56482dfdg1b6eg4df2g9fbbgeb720208839e" version="1">Charmed (Diabolic Ultimatum)</content>
+  <content contentuid="hb557d4cfgd747g4e6cgbd35gaa2eecaca053" version="1">Frightened (Diabolic Ultimatum)</content>
+</contentList>

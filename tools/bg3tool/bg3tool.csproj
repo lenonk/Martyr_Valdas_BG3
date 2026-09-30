@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- LSLib from the bg3mm checkout: https://github.com/Norbyte/lslib -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <ManagePackageVersionsCentrally>false</ManagePackageVersionsCentrally>
+    <LSLibProject Condition="'$(LSLibProject)' == ''">$(HOME)/Projects/bg3mm/External/LSLibNet/src/LSLib/LSLib.csproj</LSLibProject>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="$(LSLibProject)" />
+  </ItemGroup>
+</Project>

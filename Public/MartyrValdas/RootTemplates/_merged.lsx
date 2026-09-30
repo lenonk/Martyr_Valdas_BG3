@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="6c1f92b9-c554-5cdb-aa52-84bbeeacca09" />
+					<attribute id="AnubisConfigName" type="FixedString" value="DefaultBeast" />
+					<attribute id="CanClimbLadders" type="bool" value="True" />
+					<attribute id="CanFight" type="bool" value="True" />
+					<attribute id="DisableEquipping" type="bool" value="True" />
+					<attribute id="IsLootable" type="bool" value="False" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h50f246ecg9077g5ceaga45fg36be7991cf9b" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e593beb8-6d44-5e6b-a46c-09468bf76208" />
+					<attribute id="Name" type="LSString" value="Martyr_Snakestaff_Snake" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8e2fec20-c882-5287-ab12-9763595fd9a6" />
+					<attribute id="Icon" type="FixedString" value="b29e4724-7697-b475-1403-180f208451bd-_(Icon_Snake)" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e0ff3383-6f2c-47b0-a989-bdf8b1c2b554" />
+					<attribute id="Stats" type="FixedString" value="Martyr_GiantConstrictorSnake" />
+					<attribute id="Type" type="FixedString" value="character" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

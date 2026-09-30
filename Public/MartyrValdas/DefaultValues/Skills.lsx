@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save><version major="4" minor="0" revision="9" build="330"/>
+<region id="DefaultValues"><node id="root"><children>
+<node id="DefaultValue"><attribute id="Add" type="LSString" value="Athletics;Religion;Insight;Medicine;Persuasion;History;Intimidation"/><attribute id="Level" type="int32" value="1"/><attribute id="TableUUID" type="guid" value="c321c654-4347-547b-895e-f1161e36efe9"/><attribute id="UUID" type="guid" value="cfdf7320-5e91-5665-bc6b-8bce3f4a0b3a"/></node>
+</children></node></region></save>
