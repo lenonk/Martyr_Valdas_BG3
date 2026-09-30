@@ -127,21 +127,25 @@ end
 local SS_MAX=15
 local ssMarked={}
 local function acOf(e) return e and e.Resistances and e.Resistances.AC end
+-- Only in combat, where the reaction can fire, and only over that combat's participants, nearest first by position:
+-- scanning every character in the level (900 in Act 1) twice a second took 5-9 ms a pass.
 local function refreshSacrificeMarks()
-    local martyrs={}
-    for _,row in ipairs(Osi.DB_Players:Get(nil) or {}) do
-        if Osi.HasPassive(row[1],"Martyr_SelfSacrifice")==1 then martyrs[#martyrs+1]={id=row[1],e=ent(row[1])} end
-    end
     local want={}
-    if #martyrs>0 then
-        for _,e in ipairs(Ext.Entity.GetAllEntitiesWithComponent("ServerCharacter")) do
-            local id=e.Uuid and e.Uuid.EntityUuid
-            if id then
-                for _,m in ipairs(martyrs) do
-                    if key(m.id)~=id and Osi.IsAlly(m.id,id)==1 and (Osi.GetDistanceTo(m.id,id) or 99)<4 then
-                        local d=(acOf(m.e) or 0)-(acOf(e) or 0)
+    for _,row in ipairs(Osi.DB_Players:Get(nil) or {}) do
+        local mid=row[1]
+        if Osi.HasPassive(mid,"Martyr_SelfSacrifice")==1 and Osi.IsInCombat(mid)==1 then
+            local me=ent(mid)
+            local combat=me and me.CombatParticipant and me.CombatParticipant.CombatHandle
+            local state=combat and combat.CombatState
+            local mt=me and me.Transform and me.Transform.Transform.Translate
+            for _,e in ipairs(mt and state and state.Participants or {}) do
+                local t=e.Transform and e.Transform.Transform.Translate
+                local id=t and e.Uuid and e.Uuid.EntityUuid
+                if id and id~=key(mid) and not want[id] then
+                    local dx,dy,dz=t[1]-mt[1],t[2]-mt[2],t[3]-mt[3]
+                    if dx*dx+dy*dy+dz*dz<16 and Osi.IsAlly(mid,id)==1 then
+                        local d=(acOf(me) or 0)-(acOf(e) or 0)
                         if d>0 then want[id]=math.min(d,SS_MAX) end
-                        break
                     end
                 end
             end
