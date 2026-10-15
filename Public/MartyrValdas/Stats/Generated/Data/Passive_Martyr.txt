@@ -234,12 +234,12 @@ data "Boosts" "UnlockSpell(Shout_Martyr_DivineHealing);UnlockSpell(Shout_Martyr_
 new entry "Martyr_Unlock_Level5"
 type "PassiveData"
 data "Properties" "IsHidden"
-data "Boosts" "UnlockSpell(Martyr_BloodPrint_2);UnlockSpell(Shout_Martyr_DivineHealing_3)"
+data "Boosts" "UnlockSpell(Martyr_BloodPrint_2);UnlockSpell(Shout_Martyr_DivineHealing_3);UnlockSpell(Martyr_Bless_2);UnlockSpell(Martyr_CureWounds_2);UnlockSpell(Martyr_GuidingBolt_2);UnlockSpell(Martyr_Heroism_2);UnlockSpell(Martyr_InflictWounds_2);UnlockSpell(Martyr_HealingWord_2);UnlockSpell(Martyr_Boomering_2)"
 
 new entry "Martyr_Unlock_Level9"
 type "PassiveData"
 data "Properties" "IsHidden"
-data "Boosts" "UnlockSpell(Martyr_BloodPrint_3);UnlockSpell(Shout_Martyr_DivineHealing_4)"
+data "Boosts" "UnlockSpell(Martyr_BloodPrint_3);UnlockSpell(Shout_Martyr_DivineHealing_4);UnlockSpell(Martyr_Bless_3);UnlockSpell(Martyr_CureWounds_3);UnlockSpell(Martyr_GuidingBolt_3);UnlockSpell(Martyr_Heroism_3);UnlockSpell(Martyr_InflictWounds_3);UnlockSpell(Martyr_HealingWord_3);UnlockSpell(Martyr_Boomering_3);UnlockSpell(Martyr_Aid_3);UnlockSpell(Martyr_HaloOfFlame_3)"
 
 new entry "Martyr_Unlock_Level13"
 type "PassiveData"
