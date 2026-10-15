@@ -184,20 +184,34 @@ local function burnt()
     return PersistentVars.BurntOffering
 end
 local BURNT_FORMULA="ACOverrideFormula(10,true,Wisdom)"
-local function recalcAC(object)  -- a boost change makes the game recompute AC from the armour
+local function recalcAC(object)  -- a boost change makes the game recompute boost-based AC (the formula)
     Osi.AddBoosts(object,"AC(0)","MARTYR_BURNT_OFFERING",object)
     Osi.RemoveBoosts(object,"AC(0)",0,"MARTYR_BURNT_OFFERING",object)
 end
-local function setArmorAbility(item,from,to)
+-- AC from body armour is only rebuilt when it's equipped, so after switching its ability the armour is taken off and put
+-- back on (a boost change didn't reach armour with no cap). The equip handler below ignores the Martyr meanwhile.
+local reequipping={}
+local function reequip(object,item)
+    if not item or key(Osi.GetEquippedItem(object,"Breast") or "")~=key(item) then return end
+    reequipping[key(object)]=true
+    Osi.Unequip(object,item)
+    Ext.Timer.WaitFor(100,function()
+        Osi.Equip(object,item)
+        Ext.Timer.WaitFor(500,function() reequipping[key(object)]=nil end)
+    end)
+end
+local function setArmorAbility(item,from,to)  -- true if it changed
     local ie=item and ent(item); local a=ie and ie.Armor
-    if a and a.ArmorClassAbility==from then a.ArmorClassAbility=to; pcall(function() ie:Replicate("Armor") end) end
+    if a and a.ArmorClassAbility==from then a.ArmorClassAbility=to; pcall(function() ie:Replicate("Armor") end); return true end
+    return false
 end
 local function burntOfferingOn(object)
     local item=Osi.GetEquippedItem(object,"Breast")
     local ie=item and ent(item); local a=ie and ie.Armor
     if a then
         if a.ArmorClassAbility==2 then  -- Dexterity; heavy armour adds none, so there is nothing to swap
-            setArmorAbility(item,2,5); burnt()[key(object)]={item=key(item)}
+            burnt()[key(object)]={item=key(item)}
+            if setArmorAbility(item,2,5) then reequip(object,item) end
         end
     else
         Osi.AddBoosts(object,BURNT_FORMULA,"MARTYR_BURNT_OFFERING",object); burnt()[key(object)]={formula=true}
@@ -208,7 +222,7 @@ local function burntOfferingOff(object)
     local v=burnt()[key(object)]
     if type(v)=="number" then Osi.RemoveBoosts(object,"AC("..v..")",0,"MARTYR_BURNT_OFFERING",object)
     elseif type(v)=="table" then
-        if v.item then setArmorAbility(v.item,5,2) end
+        if v.item and setArmorAbility(v.item,5,2) then reequip(object,v.item) end
         if v.formula then Osi.RemoveBoosts(object,BURNT_FORMULA,0,"MARTYR_BURNT_OFFERING",object) end
     end
     burnt()[key(object)]=nil
@@ -447,6 +461,7 @@ do
         if hasStatus(char,"MARTYR_BURNT_OFFERING") then burntOfferingOn(char) end
     end
     local function onEquipChange(item,char)
+        if char and reequipping[key(char)] then return end  -- our own re-equip
         if char and (hasStatus(char,"MARTYR_BURNT_OFFERING") or burnt()[key(char)]~=nil) then
             Ext.Timer.WaitFor(200,function() redo(char) end)
         end
